@@ -1,0 +1,2 @@
+C:\Users\srika\source\repos\InventoryFinal\BikeRental_XX_InventoryManagement\obj\Debug\BikeRental_XX_InventoryManagement.csprojAssemblyReference.cache
+C:\Users\srika\source\repos\InventoryFinal\BikeRental_XX_InventoryManagement\obj\Debug\BikeRental_XX_InventoryManagement.csproj.CoreCompileInputs.cache
